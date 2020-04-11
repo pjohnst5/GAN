@@ -11,7 +11,7 @@ To see the methods, see [GAN.ipynb](GAN.ipynb)
 
 ## Results
 Outcome after 100 epochs
-<img src="images/gan_output.JPG" alt="">
+![](images/gan_output.JPG)
 
 Next was trying the African Textile dataset. Same idea just different images. Here are the results from that.
-<img src="images/gan_african_output.JPG" alt="">
+![](images/gan_african_output.JPG)
